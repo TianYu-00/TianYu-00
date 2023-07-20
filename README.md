@@ -23,6 +23,7 @@
 <div align="left">
 <p>
 I go by the name of Tian. <br>
+I am a [Computer Games Technology] graduate <br>
 My primary hobbies include gaming 🎮, programming ⌨️, and watching videos/films/reality shows 📺. <br><br>
 From the moment my high school class introduced me to programming at the age of 12, I knew it was a passion I would pursue in the future. Even before turning 12, my fascination with computing in general sparked a keen interest, finding everything about it absolutely enthralling.
 The process of designing something and then building it from ground up brings me great enjoyment. I've always been fascinated by problem-solving, and this interest has been incredibly beneficial in my creative pursuits.
