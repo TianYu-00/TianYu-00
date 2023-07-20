@@ -5,6 +5,21 @@
 
 
 
+### 📈 Github Stats
+<div align="left">
+<a href="https://github.com/TianYu-00/TianYu-00">
+  <img align="left" height=165 src="https://github-readme-stats.vercel.app/api?username=TianYu-00&show_icons=true&hide_border=true&theme=holi" alt="TianYu-00's GitHub Stats" />
+</a>
+<a href="https://github.com/TianYu-00/TianYu-00">
+  <img align="left" height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TianYu-00&langs_count=12&show_icons=true&hide_border=true&theme=holi" alt="TianYu-00's GitHub Stats" />
+</a>
+  
+</div>
+
+
+
+
+
 
 
 <!--
