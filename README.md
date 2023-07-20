@@ -9,11 +9,11 @@
 
 <span style="white-space:nowrap">
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/csharp-%23000000.svg?style=for-the-badge&logo=csharp&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=csharp&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white" height="30" />
   
-<img src="https://img.shields.io/badge/VB-%23000000.svg?style=for-the-badge&logo=visualstudio&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/visual_basic-%23000000.svg?style=for-the-badge&logo=visualstudio&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/.net-%23000000.svg?style=for-the-badge&logo=dotnet&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30" />
 </span>
