@@ -19,7 +19,10 @@
 </span>
 
 
-### About Me
+### <img src="https://github.com/TianYu-00/TianYu-00/blob/main/src/gif/frog_drink.gif" height="50" style="vertical-align:bottom" /> About Me 
+
+
+
 <div align="left">
 <p>
 I go by the name of Tian. <br>
