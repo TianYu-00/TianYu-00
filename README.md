@@ -1,7 +1,16 @@
-### Hi there 👋
+# 😎 Tian
+
+**`Main Role: Games Developer (Programmer/Level Designer/Tester)`**  
+**`Side Role: Software Developer`**
+
+
+
+
 
 <!--
 **TianYu-00/TianYu-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
