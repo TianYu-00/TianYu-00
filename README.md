@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/.net-%23000000.svg?style=for-the-badge&logo=dotnet&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30" />
 </span>
-
+<img src="https://github.com/TianYu-00/TianYu-00/blob/main/src/gif/Rainbow_Footer_Header.gif" style="vertical-align:bottom" width="100%" />
 
 ### <img src="https://github.com/TianYu-00/TianYu-00/blob/main/src/gif/frog_drink.gif" height="50" style="vertical-align:bottom" /> About Me 
 
