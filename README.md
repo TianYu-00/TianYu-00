@@ -4,7 +4,7 @@
 **`Side Role: Software Developer`**
 
 ## About Me
-![](https://github.com/TianYu-00/TianYu-00/blob/main/src/gif/frog_drink_resize.gif) 
+<img src="https://github.com/TianYu-00/TianYu-00/blob/main/src/gif/frog_drink_resize.gif" width="10%" height="10%"/>
 <div align="left">
 <p>
 I go by the name of Tian. <br>
