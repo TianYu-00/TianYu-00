@@ -3,7 +3,8 @@
 **`Main Role: Games Developer (Programmer/Level Designer/Tester)`**  
 **`Side Role: Software Developer`**
 
-<h2><img src="https://github.com/TianYu-00/TianYu-00/blob/main/src/gif/frog_drink.gif" width="40" />About Me </h1>
+## About Me
+![](https://github.com/TianYu-00/TianYu-00/blob/main/src/gif/frog_drink_resize.gif) 
 <div align="left">
 <p>
 I go by the name of Tian. <br>
