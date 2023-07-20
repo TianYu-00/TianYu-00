@@ -1,6 +1,6 @@
 <h1><img src="https://github.com/TianYu-00/TianYu-00/blob/main/src/gif/Hi.gif" width="40" />Hello There! </h1>
 
-**`Main Role: Games Developer (Programmer/Level Designer/Tester)`**  
+**`Main Role: Game Developer (Programmer/Level Designer/Tester)`**  
 **`Side Role: Software Developer`**
 
 <!-- https://shields.io/badges/static-badge -->
