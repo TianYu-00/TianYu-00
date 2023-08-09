@@ -5,6 +5,7 @@
 
 <!-- https://shields.io/badges/static-badge -->
 <!-- https://simpleicons.org/ -->
+<!-- https://cdnjs.com/libraries/font-awesome -->
 <!-- Could also do it this way ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) -->
 
 <span style="white-space:nowrap">
