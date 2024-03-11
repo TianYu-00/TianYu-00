@@ -21,35 +21,26 @@
 <!-- <img src="https://www.codewars.com/users/TianYu00/badges/large" style="vertical-align:bottom" width="25%"> -->
 <img src="https://github.com/TianYu-00/TianYu-00/blob/main/src/gif/Rainbow_Footer_Header.gif" style="vertical-align:bottom" width="100%" />
 <img src="https://github.com/TianYu-00/TianYu-00/blob/main/src/gif/frog_drink.gif" height="50" style="vertical-align:bottom" /> 
-### About Me 
 
 
-
+_About Me_
+-----------------------
 <div align="left">
 <p>
-I go by the name of Tian. <br>
-I am a [Computer Games Technology] graduate <br>
-My primary hobbies include gaming 🎮, programming ⌨️, and watching videos/films/reality shows 📺. <br><br>
-From the moment my high school class introduced me to programming at the age of 12, I knew it was a passion I would pursue in the future. Even before turning 12, my fascination with computing in general sparked a keen interest, finding everything about it absolutely enthralling.
-The process of designing something and then building it from ground up brings me great enjoyment. I've always been fascinated by problem-solving, and this interest has been incredibly beneficial in my creative pursuits.  
-    
-Quite interested in unreal engine, might look into that soon!
-Though C++ would be a complete new language for me but hopefully i will get an idea of how it works then go on from that.
-
-#
 
 </p>
 </div>
 
-### 📈 Github Stats
 
+
+_📈 Github Stats_
+-----------------------
 <div align="left">
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://github.com/TianYu-00/TianYu-00"><img height=200 src="https://github-readme-stats-sage-eta.vercel.app/api/top-langs/?username=TianYu-00&langs_count=12&hide_border=true&layout=compact&card_width=325&theme=holi&&hide=shaderlab,hlsl" alt="TianYu-00's GitHub Stats" /></a>
   <a href="https://github.com/TianYu-00/TianYu-00"><img height=200 src="https://github-readme-stats-sage-eta.vercel.app/api?username=TianYu-00&show_icons=true&include_all_commits=true&hide_border=true&theme=holi" alt="TianYu-00's github stats" /></a>
 </div>
 
-#
 
 
 
