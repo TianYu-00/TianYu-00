@@ -26,9 +26,9 @@
 _About Me_
 -----------------------
 <div align="left">
-<p>
 
-</p>
+<p>Hello im tian and welcome to my github page, feel free to go through any of my repo's if yorue interested. </p>
+<p>Happy Coding!</p>
 </div>
 
 
