@@ -27,10 +27,9 @@ _About Me_
 -----------------------
 <div align="left">
 
-<p>Hello im tian and welcome to my github page, feel free to go through any of my repo's if yorue interested. </p>
+<p>Hello im Tian and welcome to my github page, feel free to go through any of my repo's if yorue interested. </p>
 <p>Happy Coding!</p>
 </div>
-
 
 
 _📈 Github Stats_
@@ -40,6 +39,7 @@ _📈 Github Stats_
   <a href="https://github.com/TianYu-00/TianYu-00"><img height=200 src="https://github-readme-stats-sage-eta.vercel.app/api/top-langs/?username=TianYu-00&langs_count=12&hide_border=true&layout=compact&card_width=325&theme=holi&&hide=shaderlab,hlsl" alt="TianYu-00's GitHub Stats" /></a>
   <a href="https://github.com/TianYu-00/TianYu-00"><img height=200 src="https://github-readme-stats-sage-eta.vercel.app/api?username=TianYu-00&show_icons=true&include_all_commits=true&hide_border=true&theme=holi" alt="TianYu-00's github stats" /></a>
 </div>
+
 
 
 
