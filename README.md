@@ -27,9 +27,8 @@ _About Me_
 -----------------------
 <div align="left">
 
-Hello, I'm Tian! 👋
-Welcome to my GitHub page! Feel free to explore any of my repositories if you're interested. 
-Happy coding! 🚀
+<p>Hello, I'm Tian! 👋 Welcome to my GitHub page! Feel free to explore any of my repositories if you're interested. Happy coding! 🚀</p>
+
 </div>
 
 
