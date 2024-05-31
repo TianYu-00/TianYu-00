@@ -37,7 +37,7 @@ _📈 Github Stats_
 -----------------------
 <div align="left">
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <a href="https://github.com/TianYu-00/TianYu-00"><img height=200 src="https://github-readme-stats-sage-eta.vercel.app/api/top-langs/?username=TianYu-00&langs_count=12&hide_border=true&layout=compact&card_width=325&theme=holi&&hide=shaderlab,hlsl" alt="TianYu-00's GitHub Stats" /></a>
+  <a href="https://github.com/TianYu-00/TianYu-00"><img height=200 src="https://github-readme-stats-sage-eta.vercel.app/api/top-langs/?username=TianYu-00&langs_count=12&hide_border=true&layout=compact&card_width=325&theme=holi&&hide=shaderlab,hlsl,asp.net" alt="TianYu-00's GitHub Stats" /></a>
   <a href="https://github.com/TianYu-00/TianYu-00"><img height=200 src="https://github-readme-stats-sage-eta.vercel.app/api?username=TianYu-00&show_icons=true&include_all_commits=true&hide_border=true&theme=holi" alt="TianYu-00's github stats" /></a>
 </div>
 
