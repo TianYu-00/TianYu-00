@@ -13,23 +13,9 @@
     <p>
         <img src="https://skillicons.dev/icons?i=cs,js,py,unity,docker,git,visualstudio,vscode,windows,github,dotnet,docker,react,vite,jest,html,css,npm,nodejs,netlify,ps,postgres,raspberrypi,supabase,nginx,pycharm,stackoverflow,powershell,php,mysql,grafana,figma,eclipse,cloudflare,atom,heroku,lua,styledcomponents&theme=dark" />
     </p>
-    
-    
 </div>
 
-
-<!-- https://shields.io/badges/static-badge -->
-<!-- https://simpleicons.org/ -->
-<!-- https://cdnjs.com/libraries/font-awesome -->
-<!-- Could also do it this way ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) -->
-
-
-
-
-
-<!-- <img src="https://www.codewars.com/users/TianYu00/badges/large" style="vertical-align:bottom" width="25%"> -->
 <img src="https://github.com/TianYu-00/TianYu-00/blob/main/src/gif/Rainbow_Footer_Header.gif" style="vertical-align:bottom" width="100%" />
-
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=tianyu-00.tianyu-00" />
 
@@ -83,6 +69,13 @@ https://skillicons.dev/
 
 
 -->
+
+<!-- https://shields.io/badges/static-badge -->
+<!-- https://simpleicons.org/ -->
+<!-- https://cdnjs.com/libraries/font-awesome -->
+<!-- Could also do it this way ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) -->
+
+<!-- <img src="https://www.codewars.com/users/TianYu00/badges/large" style="vertical-align:bottom" width="25%"> -->
 
 
 <!--
