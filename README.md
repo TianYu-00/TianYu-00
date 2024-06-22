@@ -44,6 +44,15 @@ _📈 Github Stats_
   <a href="https://github.com/TianYu-00/TianYu-00"><img height=200 src="https://github-readme-stats-sage-eta.vercel.app/api?username=TianYu-00&show_icons=true&include_all_commits=true&hide_border=true&theme=holi" alt="TianYu-00's github stats" /></a>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tianyu-00/tianyu-00/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tianyu-00/tianyu-00/output/github-contribution-grid-snake-light.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tianyu-00/tianyu-00/output/github-contribution-grid-snake.svg" />
+</picture>
+
+
+
+ 
 
 
 
