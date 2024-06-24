@@ -22,10 +22,8 @@
 _About Me_
 -----------------------
 <div align="left">
-
 <p>Hello, I'm Tian! 👋 Welcome to my GitHub page! I'm passionate about coding and technology, and I love building and experimenting projects. I'm constantly learning and exploring new technologies to expand my skills.</p>
 <p>Feel free to look through my repo if youre interested in knowing me. Happy coding! </p>
-
 </div>
 
 
