@@ -4,12 +4,10 @@
 
 <div align="center">
     <img src="https://github.com/TianYu-00/TianYu-00/blob/main/src/gif/frog_drink.gif" height="50" style="vertical-align:bottom" /> 
-    <p>
-        Game Developer (Programmer)
-    </p>
-    <p>
-        Software Developer (Full-Stack)
-    </p>
+    <br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Game+Developer+(Programmer);Software+Developer+(Full-Stack)"/> 
+    <br>
+    <br>
     <p>
         <img src="https://skillicons.dev/icons?i=cs,js,py,unity,docker,git,visualstudio,vscode,windows,github,dotnet,docker,react,vite,jest,html,css,npm,nodejs,netlify,ps,postgres,raspberrypi,supabase,nginx,pycharm,stackoverflow,powershell,php,mysql,grafana,figma,eclipse,cloudflare,atom,heroku,lua,styledcomponents&theme=dark" />
     </p>
