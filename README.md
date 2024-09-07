@@ -27,6 +27,8 @@ _About Me_
 <p>Feel free to look through my repo if youre interested in knowing me. Happy coding! </p>
 </div>
 
+<div>I’m currently working on a WebRTC project with peer-to-peer video conferencing functionality! 📷🔉</div>
+
 
 _📈 Github Stats_
 -----------------------
