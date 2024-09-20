@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Game+Developer+(Programmer);Software+Developer+(Full-Stack)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Software+Developer+(Full-Stack);Game+Developer+(Programmer)" alt="Typing SVG" />
 </div>
 
 <div align="center">
