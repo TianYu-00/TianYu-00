@@ -28,7 +28,7 @@ _About Me_
 </div>
 
 <div>I’m currently working on a WebRTC project with peer-to-peer video conferencing functionality! 📷🔉</div>
-<div>The repo will be made public once the MVP (Minimum Viable Product) is ready. 🚀</div>
+<div>The repository will be made public once the MVP (Minimum Viable Product) is ready. 🚀</div>
 
 
 _📈 Github Stats_
