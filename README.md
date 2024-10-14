@@ -28,7 +28,7 @@ _About Me_
 </div>
 
 <div>I’m currently working on a WebRTC project with peer-to-peer video conferencing functionality! 📷🔉</div>
-<div>The repository will be made public once the MVP (Minimum Viable Product) is ready (very soon!). 🚀</div>
+<div>The repository could be found <a href="https://github.com/TianYu-00/webrtc-with-react">here</a></div>
 
 
 _📈 Github Stats_
