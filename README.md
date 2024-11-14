@@ -29,8 +29,10 @@ _About Me_
 
 <div>My latest repository could be found <a href="https://github.com/TianYu-00/webrtc-with-react">here</a></div>
 
+<br />
+
 <div>
-    Im currently working on a functional file sharing web app 😁 repo wont be published any time soon but will do when it reach my expectations!
+Im currently working on a functional file sharing web app 😁 repo wont be published any time soon but will do when it reach my expectations!
 </div>
 
 
