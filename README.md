@@ -23,7 +23,6 @@ _About Me_
 -----------------------
 <div align="left">
 <p>Hello, I'm Tian! 👋 Welcome to my GitHub page! I have a huge passion for pragramming, gaming and learning new technologies. I enjoy learning, building and experimenting with various of projects/ideas. I'm constantly learning and exploring new technologies to expand my skills.</p>
-<p>I'm currently working on re-creating my portfolio website with new knowledge gathered from attending Northcoders Software Development bootcamp, its coming out very soon!
 <p>Feel free to look through my repo if youre interested in knowing me. Happy coding! </p>
 </div>
 
