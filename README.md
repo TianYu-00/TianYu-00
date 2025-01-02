@@ -31,7 +31,7 @@ _About Me_
 <br />
 
 <div>
-Im currently working on a functional file sharing web app 😁 repo wont be published any time soon but will do when it reach my expectations!
+I'm almost done with my file-sharing web app and will be releasing the repo soon! 😁
 </div>
 
 
