@@ -26,13 +26,10 @@ _About Me_
 <p>Feel free to look through my repo if youre interested in knowing me. Happy coding! </p>
 </div>
 
-<div>My latest repository could be found <a href="https://github.com/TianYu-00/webrtc-with-react">here</a></div>
+<div>My latest repository could be found <a href="https://github.com/TianYu-00/filesharing_site">here</a></div>
 
 <br />
 
-<div>
-I'm almost done with my file-sharing web app and will be releasing the repo soon! 😁
-</div>
 
 
 
