@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,js,py,php,lua,react,vite,nextjs,jest,nodejs,express,styledcomponents,bootstrap,tailwind,unity,docker,git,visualstudio,vscode,github,dotnet,npm,netlify,postgres,supabase,pycharm,powershell,mysql,grafana,figma,atom,eclipse,cloudflare,heroku,debian,nginx,discord,html,css,raspberrypi,firebase,mongodb,ps,stackoverflow,windows&theme=dark" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=csharp,js,nodejs,expressjs,vite,react,reactnative,nextjs,html,css,tailwindcss,materialui,figma,expo,jest,postgresql,mongodb,supabase,docker,nginx,debian,ubuntu,linux,windows,vmware,raspberrypi,git,github,npm,netlify,vercel,heroku,railway,render,cloudflare,jwt,stripe,firebase,clerk,socketio,visualstudio,visualstudiocode,atom,postman,insomnia,python,unity,ps,discord,chrome,firefox,obs" />
 </div>
 
 <img src="https://github.com/TianYu-00/TianYu-00/blob/main/src/gif/Rainbow_Footer_Header.gif" style="vertical-align:bottom" width="100%" />
