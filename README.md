@@ -28,6 +28,8 @@ _About Me_
 
 <div>My latest repository could be found <a href="https://github.com/TianYu-00/SE-Events-Platform">here</a></div>
 
+<p>I'm planning to travel starting from March - April 2025, my apologies for any delayed responses ❤️ </p>
+
 <br />
 
 
