@@ -26,11 +26,12 @@ _About Me_
 <p>Feel free to look through my repo if youre interested in knowing me. Happy coding! </p>
 </div>
 
-<div>My latest repository could be found <a href="https://github.com/TianYu-00/SE-Events-Platform">here</a></div>
+<div>latest repository could be found <a href="https://github.com/TianYu-00/SE-Events-Platform">here</a> called "United Events"</div>
 <br>
-<p>I'm planning to travel starting from March - April 2025, my apologies for any delayed responses ❤️ </p>
-
 <br />
+
+> [!NOTE]
+> I'm on holiday starting from March - April 2025, my apologies for any delayed responses ❤️
 
 
 
