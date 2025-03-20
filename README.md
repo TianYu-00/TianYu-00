@@ -31,7 +31,7 @@ _About Me_
 <br />
 
 > [!NOTE]
-> I'm on holiday starting from March - April 2025, my apologies for any delayed responses ❤️
+> I'm on holiday starting from Feb 20th - April 12th 2025, my apologies for any delayed responses ❤️
 
 
 
