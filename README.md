@@ -32,7 +32,9 @@ _About Me_
 
 > [!NOTE]
 > ~~I'm on holiday starting from Feb 20th - April 12th 2025, my apologies for any delayed responses ❤️~~
+> 
 > I'm Back! - 20/04/2025
+> 
 > Currently learning Azure & AWS
 
 
