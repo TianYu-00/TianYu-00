@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-    <img src="https://skills-icons.vercel.app/api/icons?perline=13&i=csharp,js,nodejs,expressjs,vite,react,reactnative,nextjs,html,css,tailwindcss,materialui,figma,expo,jest,postgresql,mongodb,supabase,docker,nginx,debian,ubuntu,linux,windows,vmware,raspberrypi,git,github,npm,netlify,vercel,heroku,railway,render,cloudflare,jwt,stripe,firebase,clerk,socketio,visualstudio,visualstudiocode,atom,postman,insomnia,python,unity,ps,discord,chrome,firefox,obs" />
+    <img src="https://skills-icons.vercel.app/api/icons?perline=13&i=csharp,js,nodejs,expressjs,vite,react,reactnative,nextjs,html,css,tailwindcss,materialui,figma,expo,jest,postgresql,mongodb,supabase,docker,nginx,debian,ubuntu,linux,windows,vmware,raspberrypi,git,github,npm,netlify,vercel,heroku,railway,render,cloudflare,jwt,stripe,firebase,clerk,socketio,visualstudio,visualstudiocode,atom,postman,insomnia,python,unity,ps,discord,chrome,firefox,electron" />
 </div>
 
 <img src="https://github.com/TianYu-00/TianYu-00/blob/main/src/gif/Rainbow_Footer_Header.gif" style="vertical-align:bottom" width="100%" />
@@ -31,7 +31,7 @@ _About Me_
 <br />
 
 > [!NOTE]
-> Currently learning Web Scraping
+> Currently learning `Web Scraping` and `Electron.js`
 
 
 
